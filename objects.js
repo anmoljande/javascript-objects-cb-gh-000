@@ -1,4 +1,8 @@
-var playlist={};
+var playlist=
+{
+  abc:"song"
+  
+};
 
 function updatePlaylist(playlist,artist,song)
 {
